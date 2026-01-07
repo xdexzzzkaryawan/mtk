@@ -15,8 +15,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Token bot Anda
-TOKEN = "MASUKKAN_TOKEN_BOT_ANDA"
-ADMIN_ID = YOUR_TELEGRAM_ID  # Ganti dengan ID Telegram Anda
+TOKEN = "8550068285:AAHepdxHY5Gz31CBMWkaXWFVEjg0PZ2mzuM"
+ADMIN_ID = 7799092693  # Ganti dengan ID Telegram Anda
 
 def run_command(cmd):
     """Jalankan command dan return output"""
